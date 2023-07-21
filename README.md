@@ -9,6 +9,12 @@ Features:
 -------------
 1. Ui like a chatbot
 2. Database
+3. item shortage remainder
+4. item expiry remainder
+5. item search
+6. item sold button (if clicked then reduce qty)
+7. item update button
+8. item add button
 
 What database Requires:
 -------------
