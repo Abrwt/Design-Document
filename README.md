@@ -3,7 +3,7 @@ Web based Store Management System
 
 IDEA:
 -------------
-A web app that focuses on small scale store inventory menagement.
+A web app that focuses on small scale store inventory management.
 
 Features:
 -------------
@@ -15,6 +15,8 @@ Features:
 6. item sold button (if clicked then reduce qty)
 7. item update button
 8. item add button
+9. types of items (products)
+10. most sold item, least sold item in each category
 
 What database Requires:
 -------------
@@ -25,6 +27,7 @@ What database Requires:
 6. is_expirable
 7. Expiry_Date if(is_expirable)
 8. Qty_In_stock
+9. product_category
 
 Front-End:
 -------------
